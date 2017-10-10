@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/blayko/wolfgarc/issues"
   },
-  "homepage": "https://github.com/blayko/wolfgarc#readme"
+  "homepage": "https://github.com/blayko/wolfgarc#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
