@@ -1,0 +1,19 @@
+{
+  "name": "wolfgarc",
+  "version": "1.0.0",
+  "description": "Mi primer web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blayko/wolfgarc.git"
+  },
+  "author": "blayko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blayko/wolfgarc/issues"
+  },
+  "homepage": "https://github.com/blayko/wolfgarc#readme"
+}
